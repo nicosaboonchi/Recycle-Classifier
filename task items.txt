@@ -1,0 +1,10 @@
+8/13/2024
+- Create learning rate scheduler: 
+- fix the imshow function: done
+- add saving model to current dir: done
+- create simple prediction plotting: done
+- remove datasets that are overlapping like the cardboard boxes and packing: done
+
+8/27/2024
+- make recursive image collection so that i dont need a bunch of if else statements checking if it is a dir or not
+- resize the images in local directory to save space
